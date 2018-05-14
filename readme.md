@@ -18,3 +18,13 @@ Jargon
 - $ "money", "cash", "dollar sign", "bling"
 - & "and"(2), "ampersand"(1)
 - \` "tick", "backtick" (under tilde)
+
+Review Lecture:
+---
+
+Part 1:
+
+- "+" operator prefers text concatenation, as does "+="
+- "++" tries to coerce variables to be numeric
+- non-zero numbers eval as "truthy"
+- null and NaN evaluate as "falsy"
