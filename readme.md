@@ -28,3 +28,10 @@ Part 1:
 - "++" tries to coerce variables to be numeric
 - non-zero numbers eval as "truthy"
 - null and NaN evaluate as "falsy"
+
+Part 2:
+
+- arrays
+- loops
+- conditionals
+- object literals
